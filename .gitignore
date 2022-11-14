@@ -45,6 +45,7 @@ jspm_packages/
 typings
 node_modules
 .DS_Store
+.env
 # TypeScript cache
 *.tsbuildinfo
 
